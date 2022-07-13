@@ -7,7 +7,6 @@
     {
         "id": "81394fa6.f9523",
         "type": "ui_group",
-        "z": "",
         "name": "Quick Start",
         "tab": "6529e313.74108c",
         "order": 1,
@@ -17,7 +16,6 @@
     {
         "id": "b642e71.9697318",
         "type": "ui_group",
-        "z": "",
         "name": "1",
         "tab": "4ede131f.f2e09c",
         "order": 1,
@@ -27,7 +25,6 @@
     {
         "id": "b914fb40.bc5c78",
         "type": "ui_group",
-        "z": "",
         "name": "5",
         "tab": "4ede131f.f2e09c",
         "order": 5,
@@ -37,7 +34,6 @@
     {
         "id": "4a85df35.41e16",
         "type": "ui_group",
-        "z": "",
         "name": "6",
         "tab": "4ede131f.f2e09c",
         "order": 6,
@@ -47,7 +43,6 @@
     {
         "id": "19fab5c2.199ffa",
         "type": "ui_group",
-        "z": "",
         "name": "Cloud Settings",
         "tab": "6529e313.74108c",
         "order": 2,
@@ -57,7 +52,6 @@
     {
         "id": "307e2bd0.e69514",
         "type": "ui_group",
-        "z": "",
         "name": "2",
         "tab": "4ede131f.f2e09c",
         "order": 2,
@@ -67,7 +61,6 @@
     {
         "id": "8de27cf2.dbd6a",
         "type": "ui_group",
-        "z": "",
         "name": "3",
         "tab": "4ede131f.f2e09c",
         "order": 3,
@@ -77,7 +70,6 @@
     {
         "id": "6acae0b0.a184",
         "type": "ui_group",
-        "z": "",
         "name": "Specific Gravity Calibration",
         "tab": "75f710f5.16d2e",
         "order": 2,
@@ -88,7 +80,6 @@
     {
         "id": "b8d3bbbf.2c9cb8",
         "type": "ui_group",
-        "z": "",
         "name": "4",
         "tab": "4ede131f.f2e09c",
         "order": 4,
@@ -98,7 +89,6 @@
     {
         "id": "ab6da67f.a47fa8",
         "type": "ui_group",
-        "z": "",
         "name": "8",
         "tab": "4ede131f.f2e09c",
         "order": 8,
@@ -108,7 +98,6 @@
     {
         "id": "a510f969.f28538",
         "type": "ui_group",
-        "z": "",
         "name": "7",
         "tab": "4ede131f.f2e09c",
         "order": 7,
@@ -118,7 +107,6 @@
     {
         "id": "82607108.c5be8",
         "type": "ui_group",
-        "z": "",
         "name": "Tilt Pi Settings",
         "tab": "6529e313.74108c",
         "order": 3,
@@ -128,7 +116,6 @@
     {
         "id": "eb4ab3d5.7b3f1",
         "type": "ui_group",
-        "z": "",
         "name": "Select Tilt in Range",
         "tab": "75f710f5.16d2e",
         "order": 1,
@@ -139,7 +126,6 @@
     {
         "id": "5ca7d250.c3938c",
         "type": "ui_group",
-        "z": "",
         "name": "Time",
         "tab": "c9c26b4a.4cde78",
         "order": 1,
@@ -149,7 +135,6 @@
     {
         "id": "c8854cd2.f1773",
         "type": "ui_group",
-        "z": "",
         "name": "App Admin (Tilt Pi)",
         "tab": "c9c26b4a.4cde78",
         "order": 6,
@@ -160,7 +145,6 @@
     {
         "id": "6529e313.74108c",
         "type": "ui_tab",
-        "z": "",
         "name": "Logging",
         "icon": "fa-line-chart",
         "order": 3
@@ -168,7 +152,6 @@
     {
         "id": "4ede131f.f2e09c",
         "type": "ui_tab",
-        "z": "",
         "name": "Tilt Pi",
         "icon": "fa-tachometer",
         "order": 1,
@@ -178,7 +161,6 @@
     {
         "id": "75f710f5.16d2e",
         "type": "ui_tab",
-        "z": "",
         "name": "Calibration",
         "icon": "fa-bullseye",
         "order": 4
@@ -186,7 +168,6 @@
     {
         "id": "c9c26b4a.4cde78",
         "type": "ui_tab",
-        "z": "",
         "name": "System",
         "icon": "fa-clock-o",
         "order": 5
@@ -290,7 +271,6 @@
     {
         "id": "c12bcb12.dbd0d8",
         "type": "ui_group",
-        "z": "",
         "name": "Temperature Calibration",
         "tab": "75f710f5.16d2e",
         "order": 4,
@@ -301,7 +281,6 @@
     {
         "id": "b0619070.ac95d",
         "type": "ui_group",
-        "z": "",
         "name": "Tilt Pi Display Units",
         "tab": "c9c26b4a.4cde78",
         "order": 2,
@@ -311,7 +290,6 @@
     {
         "id": "7e458eda.984cd",
         "type": "ui_group",
-        "z": "",
         "name": "Raspberry Pi",
         "tab": "c9c26b4a.4cde78",
         "order": 7,
@@ -322,7 +300,6 @@
     {
         "id": "2f8a7619.951f3a",
         "type": "ui_group",
-        "z": "",
         "name": "Filter Tilt by RSSI",
         "tab": "c9c26b4a.4cde78",
         "order": 4,
@@ -333,7 +310,6 @@
     {
         "id": "822d1243.fc995",
         "type": "ui_link",
-        "z": "",
         "name": "Tilt Shop",
         "link": "http://tilthydrometer.com",
         "icon": "open_in_browser",
@@ -343,7 +319,6 @@
     {
         "id": "267d3836.6dd8c8",
         "type": "ui_group",
-        "z": "",
         "name": "9",
         "tab": "4ede131f.f2e09c",
         "order": 9,
@@ -354,7 +329,6 @@
     {
         "id": "108bd956.936727",
         "type": "ui_group",
-        "z": "",
         "name": "10",
         "tab": "4ede131f.f2e09c",
         "order": 10,
@@ -365,7 +339,6 @@
     {
         "id": "a50556b1.dbfcb8",
         "type": "ui_group",
-        "z": "",
         "name": "11",
         "tab": "4ede131f.f2e09c",
         "order": 11,
@@ -376,7 +349,6 @@
     {
         "id": "5c7445d4.98ad6c",
         "type": "ui_group",
-        "z": "",
         "name": "12",
         "tab": "4ede131f.f2e09c",
         "order": 12,
@@ -387,7 +359,6 @@
     {
         "id": "12fd05d8.05d72a",
         "type": "ui_group",
-        "z": "",
         "name": "13",
         "tab": "4ede131f.f2e09c",
         "order": 13,
@@ -398,7 +369,6 @@
     {
         "id": "4c37ac06.315ed4",
         "type": "ui_group",
-        "z": "",
         "name": "14",
         "tab": "4ede131f.f2e09c",
         "order": 14,
@@ -409,7 +379,6 @@
     {
         "id": "e45abb75.3c20e8",
         "type": "ui_group",
-        "z": "",
         "name": "15",
         "tab": "4ede131f.f2e09c",
         "order": 15,
@@ -420,7 +389,6 @@
     {
         "id": "15de3d7c.511dc3",
         "type": "ui_group",
-        "z": "",
         "name": "16",
         "tab": "4ede131f.f2e09c",
         "order": 16,
@@ -431,7 +399,6 @@
     {
         "id": "819bc8e0.bcd088",
         "type": "ui_group",
-        "z": "",
         "name": "17",
         "tab": "4ede131f.f2e09c",
         "order": 17,
@@ -442,7 +409,6 @@
     {
         "id": "fc7d68d0.753128",
         "type": "ui_group",
-        "z": "",
         "name": "18",
         "tab": "4ede131f.f2e09c",
         "order": 18,
@@ -453,7 +419,6 @@
     {
         "id": "bd62ad81.4b044",
         "type": "ui_group",
-        "z": "",
         "name": "19",
         "tab": "4ede131f.f2e09c",
         "order": 19,
@@ -464,7 +429,6 @@
     {
         "id": "41d62802.51c5b8",
         "type": "ui_group",
-        "z": "",
         "name": "20",
         "tab": "4ede131f.f2e09c",
         "order": 20,
@@ -475,7 +439,6 @@
     {
         "id": "44534105.db4bc",
         "type": "ui_group",
-        "z": "",
         "name": "21",
         "tab": "4ede131f.f2e09c",
         "order": 21,
@@ -486,7 +449,6 @@
     {
         "id": "51d09488.cc74ec",
         "type": "ui_group",
-        "z": "",
         "name": "22",
         "tab": "4ede131f.f2e09c",
         "order": 22,
@@ -497,7 +459,6 @@
     {
         "id": "401076ab.e74368",
         "type": "ui_group",
-        "z": "",
         "name": "23",
         "tab": "4ede131f.f2e09c",
         "order": 23,
@@ -508,7 +469,6 @@
     {
         "id": "e317dbe5.cb4a88",
         "type": "ui_group",
-        "z": "",
         "name": "24",
         "tab": "4ede131f.f2e09c",
         "order": 24,
@@ -519,7 +479,6 @@
     {
         "id": "cc24e60a.97bf38",
         "type": "ui_group",
-        "z": "",
         "name": "25",
         "tab": "4ede131f.f2e09c",
         "order": 25,
@@ -530,7 +489,6 @@
     {
         "id": "1b53fa80.bc1576",
         "type": "ui_group",
-        "z": "",
         "name": "Identify Tilt by MAC Address",
         "tab": "c9c26b4a.4cde78",
         "order": 5,
@@ -541,7 +499,6 @@
     {
         "id": "c794b7cd.ac92b8",
         "type": "ui_group",
-        "z": "",
         "name": "Tilt Measurement Smoothing",
         "tab": "c9c26b4a.4cde78",
         "order": 3,
@@ -554,13 +511,25 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "Start",
-        "topic": "",
-        "payload": "pkill -f aioblescan",
-        "payloadType": "str",
+        "props": [
+            {
+                "p": "payload",
+                "v": "pkill -f aioblescan",
+                "vt": "str"
+            },
+            {
+                "p": "topic",
+                "v": "",
+                "vt": "str"
+            }
+        ],
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "0.1",
+        "topic": "",
+        "payload": "pkill -f aioblescan",
+        "payloadType": "str",
         "x": 490,
         "y": 260,
         "wires": [
@@ -801,17 +770,18 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<style>\n    .nr-dashboard-template h1 {\n    font-size: .875em;\n    font-weight: normal;\n    margin-top: .1;\n    margin-bottom: .1;\n    }\n    \n    .nr-dashboard-template h2 {\n    font-size: 3.5em;\n    text-indent: .5em;\n    margin-top: 0;\n    margin-bottom: 0;\n    }\n    \n    h5 {\n        font-family:\"Courier New\", Courier, monospace;\n        text-align: center;\n        font-size: .6em;\n        margin-top: .2em;\n        margin-bottom: 0;\n    }\n    \n   \n   div {\n    max-width: 100%;\n   }\n   \n   a:link {\n    color: white; \n    background-color: transparent; \n    text-decoration: none;\n}\n\na:visited {\n    color: white;\n    background-color: transparent;\n    text-decoration: none;\n}\n\n#{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<style>\n    .nr-dashboard-template h1 {\n    font-size: .875em;\n    font-weight: normal;\n    margin-top: .1;\n    margin-bottom: .1;\n    }\n    \n    .nr-dashboard-template h2 {\n    font-size: 3.5em;\n    text-indent: .5em;\n    margin-top: 0;\n    margin-bottom: 0;\n    }\n    \n    h5 {\n        font-family:\"Courier New\", Courier, monospace;\n        text-align: center;\n        font-size: .6em;\n        margin-top: .2em;\n        margin-bottom: 0;\n    }\n    \n   \n   div {\n    max-width: 100%;\n   }\n   \n   a:link {\n    color: white; \n    background-color: transparent; \n    text-decoration: none;\n}\n\na:visited {\n    color: white;\n    background-color: transparent;\n    text-decoration: none;\n}\n</style>\n\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 140,
         "wires": [
             [
-                "394a5d3d.92fa72",
-                "1ee5d27c.fa4e8e",
-                "425f9ce9.7d5064"
+                "425f9ce9.7d5064",
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -824,16 +794,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 300,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -842,13 +813,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "Stop",
-        "topic": "",
-        "payload": "pkill -f aioblescan",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "pkill -f aioblescan",
+        "payloadType": "str",
         "x": 510,
         "y": 40,
         "wires": [
@@ -867,7 +838,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-1",
+                "to": "storage.1",
                 "tot": "flow"
             }
         ],
@@ -889,12 +860,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-1",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "storage.1",
+        "payloadType": "flow",
         "x": 2240,
         "y": 140,
         "wires": [
@@ -912,16 +893,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 340,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -1152,7 +1134,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-5",
+                "to": "storage.5",
                 "tot": "flow"
             }
         ],
@@ -1177,7 +1159,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-7",
+                "to": "storage.7",
                 "tot": "flow"
             }
         ],
@@ -1202,7 +1184,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-6",
+                "to": "storage.6",
                 "tot": "flow"
             }
         ],
@@ -1222,12 +1204,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-5",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "storage.5",
+        "payloadType": "flow",
         "x": 2240,
         "y": 300,
         "wires": [
@@ -1241,12 +1233,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-6",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "storage.6",
+        "payloadType": "flow",
         "x": 2240,
         "y": 340,
         "wires": [
@@ -1548,7 +1550,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-2",
+                "to": "storage.2",
                 "tot": "flow"
             }
         ],
@@ -1572,16 +1574,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 180,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -1595,7 +1598,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-3",
+                "to": "storage.3",
                 "tot": "flow"
             }
         ],
@@ -1619,16 +1622,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 220,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -1637,13 +1641,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-3",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.3",
+        "payloadType": "flow",
         "x": 2240,
         "y": 220,
         "wires": [
@@ -1657,12 +1670,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-2",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "storage.2",
+        "payloadType": "flow",
         "x": 2240,
         "y": 180,
         "wires": [
@@ -1676,10 +1699,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_1\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_1\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_1\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 140,
         "wires": [
             [
@@ -1735,6 +1761,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 3415,
         "y": 203,
         "wires": [
@@ -1777,10 +1804,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_2\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_2\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_2\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 180,
         "wires": [
             [
@@ -1820,10 +1850,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_3\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_1\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_3\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 220,
         "wires": [
             [
@@ -1863,10 +1896,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_5\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_5\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_5\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 300,
         "wires": [
             [
@@ -1906,10 +1942,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_6\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_6\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_6\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 340,
         "wires": [
             [
@@ -1926,16 +1965,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 260,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -1971,10 +2011,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_4\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_4\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_4\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 260,
         "wires": [
             [
@@ -1987,13 +2030,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-4",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.4",
+        "payloadType": "flow",
         "x": 2240,
         "y": 260,
         "wires": [
@@ -2011,16 +2063,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 420,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -2029,12 +2082,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-8",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "storage.8",
+        "payloadType": "flow",
         "x": 2240,
         "y": 420,
         "wires": [
@@ -2075,10 +2138,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_8\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_8\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_8\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 420,
         "wires": [
             [
@@ -2095,16 +2161,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 380,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -2140,10 +2207,13 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload.timeStamp === undefined){\n msg.payload.group = {\"hide\":\"Tilt_Pi_7\"};\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.payload.group = {\"hide\":\"Tilt_Pi_7\"};\n return msg;\n}\nelse{\n msg.payload.group = {\"show\":\"Tilt_Pi_7\"};\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2590,
         "y": 380,
         "wires": [
             [
@@ -2156,14 +2226,24 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-7",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
-        "x": 2243.5,
-        "y": 377,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "storage.7",
+        "payloadType": "flow",
+        "x": 2240,
+        "y": 380,
         "wires": [
             [
                 "8e49f6ea.8fa718"
@@ -2231,7 +2311,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-4",
+                "to": "storage.4",
                 "tot": "flow"
             }
         ],
@@ -2256,7 +2336,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-8",
+                "to": "storage.8",
                 "tot": "flow"
             }
         ],
@@ -2515,6 +2595,9 @@
         "func": "var postEnabled = (flow.get('logLocalDataCheck'));\nvar interval = flow.get('localloggingInterval')||15;\ninterval *= 60000;\nif (postEnabled && msg.payload.Color !== undefined){\n    var lastPost = flow.get('lastlocalpost-' + msg.payload.Color)||0;\n    if (msg.payload.timeStamp - lastPost > interval){\n        msg.payload.Comment = flow.get(msg.payload.Color + \"-Comment\")||\"\";\n        msg.payload.Beer = flow.get(msg.payload.Color + \"-Beer\")||[\"Untitled\",true];\n        msg.topic = msg.payload.Color;\n        var date = new Date().toLocaleString();\n        date = date.replace(\",\",\" \");\n        //unsigned bonus byte\n        var uint8 = new Uint8Array(1);\n        uint8[0] = msg.payload.tx_power;\n        msg.payload.tx_power = uint8[0];\n        flow.set('lastlocalpost-' + msg.payload.Color,msg.payload.timeStamp);\n        msg.payload = date + \",\" + msg.payload.Timepoint + \",\" + msg.payload.Temp + \",\" + msg.payload.SG + \",\" + msg.payload.Beer[0] + \",\" + msg.payload.Color + \",\" + msg.payload.Comment + \",\" + msg.payload.rssi + \",\" + msg.payload.tx_power;\n    return msg;\n}\n}",
         "outputs": 1,
         "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
         "x": 3160,
         "y": 340,
         "wires": [
@@ -2598,6 +2681,7 @@
         "label": "",
         "format": "{{msg.payload}}",
         "layout": "row-left",
+        "className": "",
         "x": 3932.5,
         "y": 311,
         "wires": []
@@ -2611,6 +2695,7 @@
         "append": "log.csv",
         "useSpawn": "true",
         "timer": "5",
+        "winHide": false,
         "oldrc": false,
         "name": "",
         "x": 3350,
@@ -2773,12 +2858,12 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "Logging Interval",
-        "topic": "",
-        "payload": "loggingInterval",
-        "payloadType": "flow",
         "repeat": "15",
         "crontab": "",
         "once": false,
+        "topic": "",
+        "payload": "loggingInterval",
+        "payloadType": "flow",
         "x": 2108.4999237060547,
         "y": 1450.9999895095825,
         "wires": [
@@ -3117,13 +3202,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "get ip",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "10",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
         "x": 611,
         "y": 2619.5,
         "wires": [
@@ -3170,8 +3255,8 @@
         "offvalueType": "str",
         "officon": "",
         "offcolor": "",
-        "x": 2394.0002632141113,
-        "y": 2410.0005922317505,
+        "x": 2400,
+        "y": 2420,
         "wires": [
             [
                 "b58e5805.5d5928"
@@ -3186,8 +3271,8 @@
         "func": "if (msg.payload === \"°C\"){\nflow.set('tempUnits',[-32,0.555]);\nflow.set('displayUnits',\"°C\");\nreturn msg;\n}\nif (msg.payload === \"°F\"){\nflow.set('tempUnits',[0,1]);\nflow.set('displayUnits',\"°F\");\nreturn msg;\n}",
         "outputs": "1",
         "noerr": 0,
-        "x": 2647.99991607666,
-        "y": 2375.0002250671387,
+        "x": 2650,
+        "y": 2380,
         "wires": [
             [
                 "5312bf4.09fd44",
@@ -3287,6 +3372,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1468.9999237060547,
         "y": 1482.9999895095825,
         "wires": [
@@ -3385,8 +3471,8 @@
         "filename": "",
         "format": "utf8",
         "sendError": false,
-        "x": 3000.5,
-        "y": 41,
+        "x": 3000,
+        "y": 40,
         "wires": [
             [
                 "68ec71d.2dec29"
@@ -3417,12 +3503,12 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "boot",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": true,
+        "topic": "",
+        "payload": "boot",
+        "payloadType": "str",
         "x": 2394,
         "y": 40,
         "wires": [
@@ -3442,8 +3528,8 @@
         "timer": "",
         "oldrc": false,
         "name": "Remove Config File",
-        "x": 3540,
-        "y": 47.5,
+        "x": 3550,
+        "y": 40,
         "wires": [
             [],
             [],
@@ -3655,6 +3741,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": true,
+        "outputs": 1,
         "x": 1600.746826171875,
         "y": 52.618064880371094,
         "wires": [
@@ -3738,8 +3825,8 @@
         "func": "if (msg.payload === \"sg\"){\nflow.set('fermdisplayUnits',\"\");\nnode.send([{'payload':'sg'},{'payload':false},{'payload':false}]);\n}\nif (msg.payload === \"plato\"){\nflow.set('fermdisplayUnits',\"°P\");\nnode.send([{'payload':false},{'payload':'plato'},{'payload':false}]);\n}\nif (msg.payload === \"brix\"){\nflow.set('fermdisplayUnits',\"°Bx\");\nnode.send([{'payload':false},{'payload':false},{'payload':'brix'}]);\n}",
         "outputs": "3",
         "noerr": 0,
-        "x": 2684,
-        "y": 2543.0002098083496,
+        "x": 2810,
+        "y": 2640,
         "wires": [
             [
                 "d66a9036.7565"
@@ -3774,8 +3861,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 2505.000690460205,
-        "y": 2632.5001878738403,
+        "x": 2510,
+        "y": 2640,
         "wires": [
             [
                 "15afce7c.5604d2"
@@ -3804,8 +3891,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 2509.750312805176,
-        "y": 2719.75013923645,
+        "x": 2510,
+        "y": 2720,
         "wires": [
             [
                 "15afce7c.5604d2"
@@ -3919,8 +4006,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
-        "x": 2612.688522338867,
-        "y": 2442.262928009033,
+        "x": 2560,
+        "y": 2560,
         "wires": [
             [
                 "15afce7c.5604d2"
@@ -3949,8 +4036,8 @@
         "offvalueType": "str",
         "officon": "",
         "offcolor": "",
-        "x": 2400.3509521484375,
-        "y": 2336.010766029358,
+        "x": 2430,
+        "y": 2340,
         "wires": [
             [
                 "b58e5805.5d5928"
@@ -3981,14 +4068,14 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "displayUnits",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "2",
-        "x": 1990,
+        "topic": "",
+        "payload": "displayUnits",
+        "payloadType": "str",
+        "x": 2030,
         "y": 2380,
         "wires": [
             [
@@ -4001,15 +4088,15 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "fermdisplayUnits",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "2",
+        "topic": "",
+        "payload": "fermdisplayUnits",
+        "payloadType": "str",
         "x": 2130,
-        "y": 2660,
+        "y": 2640,
         "wires": [
             [
                 "3c9890f9.04d5f"
@@ -4024,8 +4111,8 @@
         "func": "msg.payload = flow.get(msg.payload);\nif (msg.payload === \"\"){\n    msg.payload = \"sg\";\n}\nif (msg.payload === \"°P\"){\n    msg.payload = \"plato\";\n}\nif (msg.payload === \"°Bx\"){\n    msg.payload = \"brix\";\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 2319.6248779296875,
-        "y": 2651.4583740234375,
+        "x": 2330,
+        "y": 2640,
         "wires": [
             [
                 "88a56bea.b66268",
@@ -4124,6 +4211,9 @@
         "func": "var previous = context.get('data-' + msg.topic)||[];\nvar currentArray = msg.payload.split(\",\");\nvar current = currentArray[2] + currentArray[3] + currentArray[4] + currentArray[6];\nvar time = context.get('time-' + msg.topic)||Date.now();\n//node.warn(current);\n//node.warn(Date.now() - time);\nif (previous !== current || Date.now() - time > 900000 ){\n    context.set('time-' + msg.topic,Date.now());\n    context.set('data-' + msg.topic,current);\n    //only clear comment if cloud logging not checked\n    if (!flow.get('logCloudDataCheck')){\n    flow.set(msg.topic + \"-Comment\",\"\");\n    }\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
         "x": 3360.96915435791,
         "y": 338.01389932632446,
         "wires": [
@@ -4363,12 +4453,12 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "Mount Point",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": true,
+        "topic": "",
+        "payload": "Mount Point",
+        "payloadType": "str",
         "x": 555,
         "y": 3179.0731925964355,
         "wires": [
@@ -4411,6 +4501,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1258.5139389038086,
         "y": 3360.732711791992,
         "wires": [
@@ -4587,6 +4678,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": true,
+        "outputs": 1,
         "x": 978.5,
         "y": 3039,
         "wires": [
@@ -4601,12 +4693,12 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "Insert Windows (FAT32, MBR) formatted USB drive.",
-        "payloadType": "str",
         "repeat": "30",
         "crontab": "",
         "once": true,
+        "topic": "",
+        "payload": "Insert Windows (FAT32, MBR) formatted USB drive.",
+        "payloadType": "str",
         "x": 1874.375,
         "y": 2965,
         "wires": [
@@ -4653,7 +4745,7 @@
         "z": "a564595f.642818",
         "name": "",
         "pretty": false,
-        "x": 3147.5,
+        "x": 3150,
         "y": 40,
         "wires": [
             [
@@ -4691,6 +4783,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 3264.5,
         "y": 132,
         "wires": [
@@ -4759,6 +4852,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 2820,
         "y": 40,
         "wires": [
@@ -4782,6 +4876,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1060,
         "y": 320,
         "wires": [
@@ -4820,6 +4915,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 850,
         "y": 400,
         "wires": [
@@ -4847,8 +4943,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 3327.5,
-        "y": 42,
+        "x": 3330,
+        "y": 40,
         "wires": [
             [
                 "7b880cec.674314"
@@ -4863,8 +4959,8 @@
         "func": "msg.payload = flow.get(msg.payload);\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 2212,
-        "y": 2384,
+        "x": 2210,
+        "y": 2380,
         "wires": [
             [
                 "5312bf4.09fd44",
@@ -4943,12 +5039,12 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
         "repeat": "60",
         "crontab": "",
         "once": true,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
         "x": 577.5,
         "y": 2533.750026702881,
         "wires": [
@@ -5093,7 +5189,10 @@
         "console": false,
         "tostatus": false,
         "complete": "payload",
-        "x": 3030,
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3010,
         "y": 100,
         "wires": []
     },
@@ -5115,6 +5214,7 @@
         "id": "31588cca.783d84",
         "type": "trigger",
         "z": "a564595f.642818",
+        "name": "Reset",
         "op1": "pkill -f aioblescan",
         "op2": "python3 -u -m aioblescan -T",
         "op1type": "str",
@@ -5124,7 +5224,7 @@
         "units": "s",
         "reset": "",
         "bytopic": "all",
-        "name": "Reset",
+        "outputs": 1,
         "x": 670,
         "y": 40,
         "wires": [
@@ -5138,13 +5238,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "minRSSI",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "2",
+        "topic": "",
+        "payload": "minRSSI",
+        "payloadType": "str",
         "x": 580,
         "y": 2940,
         "wires": [
@@ -5281,6 +5381,7 @@
         "id": "7799f0b1.ee4b8",
         "type": "trigger",
         "z": "a564595f.642818",
+        "name": "Reset Result",
         "op1": "",
         "op2": "{\"result\":\"Waiting for next time point...\"}",
         "op1type": "nul",
@@ -5290,7 +5391,7 @@
         "units": "s",
         "reset": "",
         "bytopic": "all",
-        "name": "Reset Result",
+        "outputs": 1,
         "x": 3690,
         "y": 600,
         "wires": [
@@ -5398,13 +5499,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "set dev-mode",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
         "repeat": "60",
         "crontab": "",
         "once": true,
         "onceDelay": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
         "x": 660,
         "y": 2700,
         "wires": [
@@ -5434,13 +5535,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "latest releases",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
         "repeat": "86400",
         "crontab": "",
         "once": true,
         "onceDelay": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
         "x": 1640,
         "y": 2820,
         "wires": [
@@ -5513,6 +5614,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 2020,
         "y": 2820,
         "wires": [
@@ -5526,13 +5628,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "current release",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "8",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
         "x": 1980,
         "y": 2860,
         "wires": [
@@ -5595,7 +5697,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-9",
+                "to": "storage.9",
                 "tot": "flow"
             }
         ],
@@ -5605,7 +5707,7 @@
         "to": "",
         "reg": false,
         "x": 2070,
-        "y": 460,
+        "y": 480,
         "wires": [
             []
         ]
@@ -5620,7 +5722,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-10",
+                "to": "storage.10",
                 "tot": "flow"
             }
         ],
@@ -5630,7 +5732,7 @@
         "to": "",
         "reg": false,
         "x": 2070,
-        "y": 500,
+        "y": 520,
         "wires": [
             []
         ]
@@ -5645,7 +5747,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-11",
+                "to": "storage.11",
                 "tot": "flow"
             }
         ],
@@ -5655,7 +5757,7 @@
         "to": "",
         "reg": false,
         "x": 2070,
-        "y": 540,
+        "y": 560,
         "wires": [
             []
         ]
@@ -5670,7 +5772,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-12",
+                "to": "storage.12",
                 "tot": "flow"
             }
         ],
@@ -5680,7 +5782,7 @@
         "to": "",
         "reg": false,
         "x": 2070,
-        "y": 580,
+        "y": 600,
         "wires": [
             []
         ]
@@ -5695,7 +5797,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-13",
+                "to": "storage.13",
                 "tot": "flow"
             }
         ],
@@ -5720,7 +5822,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-14",
+                "to": "storage.14",
                 "tot": "flow"
             }
         ],
@@ -5745,7 +5847,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-15",
+                "to": "storage.15",
                 "tot": "flow"
             }
         ],
@@ -5770,7 +5872,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-16",
+                "to": "storage.16",
                 "tot": "flow"
             }
         ],
@@ -5795,7 +5897,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-17",
+                "to": "storage.17",
                 "tot": "flow"
             }
         ],
@@ -5820,7 +5922,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-18",
+                "to": "storage.18",
                 "tot": "flow"
             }
         ],
@@ -5845,7 +5947,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-19",
+                "to": "storage.19",
                 "tot": "flow"
             }
         ],
@@ -5870,7 +5972,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-20",
+                "to": "storage.20",
                 "tot": "flow"
             }
         ],
@@ -5890,15 +5992,24 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-9",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.9",
+        "payloadType": "flow",
         "x": 2240,
-        "y": 460,
+        "y": 480,
         "wires": [
             [
                 "647d71c4.628e8"
@@ -5925,7 +6036,7 @@
         "to": "",
         "reg": false,
         "x": 2430,
-        "y": 460,
+        "y": 480,
         "wires": [
             [
                 "23acb7c8.0f4fa8"
@@ -5940,8 +6051,8 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
-        "y": 460,
+        "x": 2590,
+        "y": 480,
         "wires": [
             [
                 "b0c871ee.825fa"
@@ -5957,16 +6068,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
-        "y": 460,
+        "className": "",
+        "x": 2750,
+        "y": 480,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -5979,16 +6091,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
-        "y": 500,
+        "className": "",
+        "x": 2750,
+        "y": 520,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6000,8 +6113,8 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
-        "y": 500,
+        "x": 2590,
+        "y": 520,
         "wires": [
             [
                 "1b07d15a.22721f"
@@ -6028,7 +6141,7 @@
         "to": "",
         "reg": false,
         "x": 2430,
-        "y": 500,
+        "y": 520,
         "wires": [
             [
                 "69c80d48.ff3944"
@@ -6040,15 +6153,24 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-10",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.10",
+        "payloadType": "flow",
         "x": 2240,
-        "y": 500,
+        "y": 520,
         "wires": [
             [
                 "a388c3a2.eac4d"
@@ -6064,16 +6186,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
-        "y": 540,
+        "className": "",
+        "x": 2750,
+        "y": 560,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6085,8 +6208,8 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
-        "y": 540,
+        "x": 2590,
+        "y": 560,
         "wires": [
             [
                 "d85b1a06.40d7c8"
@@ -6113,7 +6236,7 @@
         "to": "",
         "reg": false,
         "x": 2430,
-        "y": 540,
+        "y": 560,
         "wires": [
             [
                 "9292de64.9ae"
@@ -6125,15 +6248,24 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-11",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.11",
+        "payloadType": "flow",
         "x": 2240,
-        "y": 540,
+        "y": 560,
         "wires": [
             [
                 "720fd272.1a56cc"
@@ -6149,16 +6281,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
-        "y": 580,
+        "className": "",
+        "x": 2750,
+        "y": 600,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6170,8 +6303,8 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
-        "y": 580,
+        "x": 2590,
+        "y": 600,
         "wires": [
             [
                 "c3e65142.1abc1"
@@ -6198,7 +6331,7 @@
         "to": "",
         "reg": false,
         "x": 2430,
-        "y": 580,
+        "y": 600,
         "wires": [
             [
                 "4b54d3d8.c7a56c"
@@ -6210,15 +6343,24 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-12",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.12",
+        "payloadType": "flow",
         "x": 2240,
-        "y": 580,
+        "y": 600,
         "wires": [
             [
                 "99a8c422.9a5d18"
@@ -6234,16 +6376,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 640,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6255,7 +6398,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 640,
         "wires": [
             [
@@ -6295,13 +6438,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-13",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.13",
+        "payloadType": "flow",
         "x": 2240,
         "y": 640,
         "wires": [
@@ -6319,16 +6471,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 680,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6340,7 +6493,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 680,
         "wires": [
             [
@@ -6380,13 +6533,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-14",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.14",
+        "payloadType": "flow",
         "x": 2240,
         "y": 680,
         "wires": [
@@ -6404,16 +6566,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 720,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6425,7 +6588,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 720,
         "wires": [
             [
@@ -6465,13 +6628,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-15",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.15",
+        "payloadType": "flow",
         "x": 2240,
         "y": 720,
         "wires": [
@@ -6489,16 +6661,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 760,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6510,7 +6683,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 760,
         "wires": [
             [
@@ -6550,13 +6723,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-16",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.16",
+        "payloadType": "flow",
         "x": 2240,
         "y": 760,
         "wires": [
@@ -6574,16 +6756,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 800,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6595,7 +6778,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 800,
         "wires": [
             [
@@ -6635,13 +6818,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-17",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.17",
+        "payloadType": "flow",
         "x": 2240,
         "y": 800,
         "wires": [
@@ -6659,16 +6851,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 840,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6680,7 +6873,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 840,
         "wires": [
             [
@@ -6720,13 +6913,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-18",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.18",
+        "payloadType": "flow",
         "x": 2240,
         "y": 840,
         "wires": [
@@ -6744,16 +6946,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 880,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6765,7 +6968,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 880,
         "wires": [
             [
@@ -6805,13 +7008,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-19",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.19",
+        "payloadType": "flow",
         "x": 2240,
         "y": 880,
         "wires": [
@@ -6829,16 +7041,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 920,
         "wires": [
             [
-                "1ee5d27c.fa4e8e",
-                "394a5d3d.92fa72"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -6850,7 +7063,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 920,
         "wires": [
             [
@@ -6890,13 +7103,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-20",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.20",
+        "payloadType": "flow",
         "x": 2240,
         "y": 920,
         "wires": [
@@ -7092,7 +7314,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-21",
+                "to": "storage.21",
                 "tot": "flow"
             }
         ],
@@ -7112,13 +7334,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-21",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.21",
+        "payloadType": "flow",
         "x": 2240,
         "y": 960,
         "wires": [
@@ -7162,7 +7393,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 960,
         "wires": [
             [
@@ -7179,16 +7410,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 960,
         "wires": [
             [
-                "394a5d3d.92fa72",
-                "1ee5d27c.fa4e8e"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -7202,7 +7434,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-22",
+                "to": "storage.22",
                 "tot": "flow"
             }
         ],
@@ -7222,13 +7454,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-22",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.22",
+        "payloadType": "flow",
         "x": 2240,
         "y": 1000,
         "wires": [
@@ -7272,7 +7513,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 1000,
         "wires": [
             [
@@ -7289,16 +7530,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 1000,
         "wires": [
             [
-                "394a5d3d.92fa72",
-                "1ee5d27c.fa4e8e"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -7312,7 +7554,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-23",
+                "to": "storage.23",
                 "tot": "flow"
             }
         ],
@@ -7332,13 +7574,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-23",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.23",
+        "payloadType": "flow",
         "x": 2240,
         "y": 1040,
         "wires": [
@@ -7382,7 +7633,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 1040,
         "wires": [
             [
@@ -7399,16 +7650,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 1040,
         "wires": [
             [
-                "394a5d3d.92fa72",
-                "1ee5d27c.fa4e8e"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -7422,7 +7674,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-24",
+                "to": "storage.24",
                 "tot": "flow"
             }
         ],
@@ -7442,13 +7694,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-24",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.24",
+        "payloadType": "flow",
         "x": 2240,
         "y": 1080,
         "wires": [
@@ -7492,7 +7753,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 1080,
         "wires": [
             [
@@ -7509,16 +7770,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 1080,
         "wires": [
             [
-                "394a5d3d.92fa72",
-                "1ee5d27c.fa4e8e"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -7532,7 +7794,7 @@
                 "t": "move",
                 "p": "payload",
                 "pt": "msg",
-                "to": "storage-25",
+                "to": "storage.25",
                 "tot": "flow"
             }
         ],
@@ -7552,13 +7814,22 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "storage-25",
-        "payloadType": "flow",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
+        "topic": "",
+        "payload": "storage.25",
+        "payloadType": "flow",
         "x": 2240,
         "y": 1120,
         "wires": [
@@ -7602,7 +7873,7 @@
         "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
-        "x": 2610,
+        "x": 2590,
         "y": 1120,
         "wires": [
             [
@@ -7619,16 +7890,17 @@
         "order": 1,
         "width": "6",
         "height": "6",
-        "format": "<!DOCTYPE html>\n<style>\n   #{{msg.topic}}-div {\n    visibility: {{msg.show}};\n   }  \n</style>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
+        "format": "<!DOCTYPE html>\n<div id = \"{{msg.topic}}-div\">\n<h1>{{msg.payload.Beer[0]}}</h1>\n<h1><strong>TILT | {{msg.payload.displayColor[0]}} {{msg.payload.displayColor[5]}} {{msg.payload.displayColor[6]}}</strong><span ng-bind-html=\"msg.payload.doclongurl\"></span></h1>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:40px;width:100%;\"></div>\n<h1>SG/Concentration: {{msg.payload.uncalferm}} (pre-calibrated)</h1>\n<h2>{{msg.payload.ferm}}{{msg.payload.fermunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.SG - 0.990)/0.00130}}%;\"></div>\n<h1>Temperature: {{msg.payload.displayuncalTemp | number:1}} (pre-calibrated)</h1>\n<h2>{{msg.payload.displayTemp | number:1}}{{msg.payload.tempunits}}</h2>\n<div style=\"background: {{msg.payload.displayColor[0]}};height:10px;width:{{(msg.payload.Temp - 30) / 1.85}}%;\"></div>\n<h5>{{msg.payload.formatteddate}}</h5>\n<h5>Received {{(msg.payload.clock - msg.payload.timeStamp) / 1000 | number:1}} seconds ago {{msg.payload.rssi}} dBm</h5>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
+        "resendOnRefresh": false,
         "templateScope": "local",
-        "x": 2830,
+        "className": "",
+        "x": 2750,
         "y": 1120,
         "wires": [
             [
-                "394a5d3d.92fa72",
-                "1ee5d27c.fa4e8e"
+                "1121f350bf8cfc23"
             ]
         ]
     },
@@ -7657,6 +7929,7 @@
         "passthru": true,
         "decouple": "false",
         "topic": "",
+        "topicType": "str",
         "style": "",
         "onvalue": "true",
         "onvalueType": "bool",
@@ -7666,6 +7939,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
+        "animate": true,
+        "className": "",
         "x": 600,
         "y": 3460,
         "wires": [
@@ -7723,6 +7998,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
+        "outputs": 1,
         "x": 980,
         "y": 3460,
         "wires": [
@@ -7952,13 +8229,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "IDbyMAC",
-        "payloadType": "flow",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "8",
+        "topic": "",
+        "payload": "IDbyMAC",
+        "payloadType": "flow",
         "x": 540,
         "y": 3340,
         "wires": [
@@ -8194,13 +8471,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "smoothSwitch",
-        "payloadType": "flow",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "8",
+        "topic": "",
+        "payload": "smoothSwitch",
+        "payloadType": "flow",
         "x": 290,
         "y": 3680,
         "wires": [
@@ -8214,13 +8491,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "alphaSG",
-        "payloadType": "flow",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "8",
+        "topic": "",
+        "payload": "alphaSG",
+        "payloadType": "flow",
         "x": 300,
         "y": 3760,
         "wires": [
@@ -8234,13 +8511,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "alphaTemp",
-        "payloadType": "flow",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "8",
+        "topic": "",
+        "payload": "alphaTemp",
+        "payloadType": "flow",
         "x": 280,
         "y": 3840,
         "wires": [
@@ -8254,13 +8531,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "numberSamples",
-        "payloadType": "flow",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": "8",
+        "topic": "",
+        "payload": "numberSamples",
+        "payloadType": "flow",
         "x": 300,
         "y": 3920,
         "wires": [
@@ -8409,13 +8686,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "Color",
-        "topic": "",
-        "payload": "colordropdownSelect",
-        "payloadType": "flow",
         "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
+        "topic": "",
+        "payload": "colordropdownSelect",
+        "payloadType": "flow",
         "x": 1910,
         "y": 1460,
         "wires": [
@@ -8430,13 +8707,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "enabled",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": 0.1,
+        "topic": "",
+        "payload": "enabled",
+        "payloadType": "str",
         "x": 1580,
         "y": 1520,
         "wires": [
@@ -8866,13 +9143,13 @@
         "type": "inject",
         "z": "a564595f.642818",
         "name": "",
-        "topic": "",
-        "payload": "enabled",
-        "payloadType": "str",
         "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": 0.1,
+        "topic": "",
+        "payload": "enabled",
+        "payloadType": "str",
         "x": 1600,
         "y": 1620,
         "wires": [
@@ -8995,5 +9272,71 @@
         "x": 3590,
         "y": 700,
         "wires": []
+    },
+    {
+        "id": "74c32270e6dea2cf",
+        "type": "ui_ui_control",
+        "z": "a564595f.642818",
+        "name": "",
+        "events": "connect",
+        "x": 3140,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1121f350bf8cfc23",
+        "type": "link out",
+        "z": "a564595f.642818",
+        "name": "consolidate tilt data",
+        "mode": "link",
+        "links": [
+            "c9c16d3117d87403"
+        ],
+        "x": 2965,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "c9c16d3117d87403",
+        "type": "link in",
+        "z": "a564595f.642818",
+        "name": "get tilt data",
+        "links": [
+            "1121f350bf8cfc23"
+        ],
+        "x": 2995,
+        "y": 340,
+        "wires": [
+            [
+                "1ee5d27c.fa4e8e",
+                "394a5d3d.92fa72",
+                "74c32270e6dea2cf"
+            ]
+        ]
+    },
+    {
+        "id": "147763acd0b2f6a4",
+        "type": "switch",
+        "z": "a564595f.642818",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1750,
+        "y": 620,
+        "wires": [
+            []
+        ]
     }
 ]
